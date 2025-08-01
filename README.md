@@ -18,8 +18,9 @@
 * 🎓 **1st-year Master’s in Computer Science** @ Instituto Superior Técnico
 * 🌍 **Location:** Lisbon, Portugal
 * 💻 **Current Focus:** Full-stack development & predictive analytics
-* 🌱 **Learning:** Rust, Docker, CI/CD
-* 🚀 **Aspirations:** Building scalable real-time systems
+* ⚡ **Typing Speed:** 160 WPM  
+- 🏋️‍♂️ **Sports:** Gym & Volleyball 
+* 📝 **Studying:** MySQL, JS
 * 🏅 **Achievements:**
 
   * Competed in **SWERC** (International University Programming Olympiad)
