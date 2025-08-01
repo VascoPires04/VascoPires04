@@ -1,7 +1,7 @@
 <!-- Cyberpunk City Header -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.vercel.app?font=Major+Mono+Display&size=36&pause=200&color=0FFFC3&center=true&width=700&lines=%F0%9F%92%A1+Welcome+to+the+Cyber+Hub"
+    src="https://readme-typing-svg.vercel.app?font=Major+Mono+Display&size=36&pause=200&color=0FFFC3&center=true&width=700&lines=%F0%9F%92%A1+Welcome+I'm+Vasco+and+you+are+?"
     alt="Cyberpunk Typing Animation"
   />
 </p>
@@ -19,7 +19,7 @@
 * 🌍 **Location:** Lisbon, Portugal
 * 💻 **Current Focus:** Full-stack development & predictive analytics
 * ⚡ **Typing Speed:** 160 WPM  
-- 🏋️‍♂️ **Sports:** Gym & Volleyball 
+* 🏋️‍♂️ **Sports:** Gym & Volleyball 
 * 📝 **Studying:** MySQL, JS
 * 🏅 **Achievements:**
 
