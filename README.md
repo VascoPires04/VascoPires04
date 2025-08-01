@@ -1,11 +1,10 @@
 <!-- Animated typing header -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&center=true&width=500&lines=%F0%9F%91%8B+Hey+I'm+Vasco,+Welcome!&color=00F2FF&color2=FF00F2&color3=F200FF"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&center=true&width=500&lines=%F0%9F%91%8B+Hey+I'm+Vasco,+Welcome!&color=00F7FF&color2=FF00F7&color3=F700FF&color4=00FF9C&color5=9C00FF&color6=FF9C00"
     alt="Typing animation"
   />
 </p>
-
 
 
 
