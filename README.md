@@ -60,6 +60,7 @@
   <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-2580FF?logo=beautifulsoup&logoColor=white&style=for-the-badge" />
   <img alt="Uvicorn" src="https://img.shields.io/badge/Uvicorn-319795?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge" />
+  <img alt="ROOT" src="https://img.shields.io/badge/ROOT-333333?logo=root&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
