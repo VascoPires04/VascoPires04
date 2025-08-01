@@ -84,13 +84,12 @@
 
 ---
 
-
 ## 🖥️ Operating Systems
 
-<p align=\"center\">
-  <img alt=\"Linux\" src=\"https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge\" />
-  <img alt=\"Ubuntu\" src=\"https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge\" />
-  <img alt=\"Windows\" src=\"https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge\" />
+<p align="center">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge\" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge\" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge\" />
 </p>
 
 
