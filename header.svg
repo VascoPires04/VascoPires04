@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="50">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#00FF9F"/>
+      <stop offset="100%" stop-color="#FF00F7"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+        font-family="Fira Code" font-size="28" fill="url(#g)">
+    👋 Hey I’m Vasco, Welcome!
+  </text>
+</svg>
