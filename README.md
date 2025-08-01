@@ -23,18 +23,6 @@
 
 ---
 
-## 💡 Featured Project
-
-[**Gas Price Tracker**](https://github.com/VascoPires04/gas-price-tracker)
-A full-stack application forecasting national fuel prices with:
-
-* React dashboard & Leaflet map (5 km radius stations)
-* FastAPI backend & Uvicorn server
-* Web scraping via BeautifulSoup
-* Discord bot (Flask + APScheduler) notifications and `/forecasts` slash-command
-
----
-
 ## 💻 Programming Languages
 
 <p align="center">
@@ -84,3 +72,14 @@ A full-stack application forecasting national fuel prices with:
 </p>
 
 ---
+
+
+## 💡 Featured Project
+
+[**Gas Price Tracker**](https://github.com/VascoPires04/gas-price-tracker)
+A full-stack application forecasting national fuel prices with:
+
+* React dashboard & Leaflet map (5 km radius stations)
+* FastAPI backend & Uvicorn server
+* Web scraping via BeautifulSoup
+* Discord bot (Flask + APScheduler) notifications and `/forecasts` slash-command
