@@ -1,14 +1,13 @@
 <!-- Cyberpunk City Header -->
-
-<p align=\"center\">
+<p align="center">
   <img
-    src=\"https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=36&pause=200&color=0FFFC3&center=true&width=700&lines=%F0%9F%92%A1+Welcome+to+the+Cyber+Hub\"
-    alt=\"Cyberpunk Typing Animation\"
+    src="https://readme-typing-svg.vercel.app?font=Major+Mono+Display&size=36&pause=200&color=0FFFC3&center=true&width=700&lines=%F0%9F%92%A1+Welcome+to+the+Cyber+Hub"
+    alt="Cyberpunk Typing Animation"
   />
 </p>
 
-<p align=\"center\">
-  <img src=\"https://i.imgur.com/3Z3cMZL.gif\" alt=\"Cyberpunk City\" width=\"700\" />
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" alt="Cyberpunk City" width="700" />
 </p>
 
 ---
