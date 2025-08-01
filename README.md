@@ -64,7 +64,6 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-00CCD1?logo=fastapi&logoColor=white&style=for-the-badge" />
   <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white&style=for-the-badge" />
   <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-2580FF?logo=beautifulsoup&logoColor=white&style=for-the-badge" />
-  <img alt="Uvicorn" src="https://img.shields.io/badge/Uvicorn-319795?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge" />
   <img alt="ROOT" src="https://img.shields.io/badge/ROOT-333333?logo=root&logoColor=white&style=for-the-badge" />
 </p>
@@ -76,13 +75,9 @@
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" />
-  <img alt="Spyder" src="https://img.shields.io/badge/Spyder-2C2255?logo=spyderide&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge" />
-  <img alt="Code::Blocks" src="https://img.shields.io/badge/Code::Blocks-0055A4?logo=codeblocks&logoColor=white&style=for-the-badge" />
-  <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white&style=for-the-badge" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
