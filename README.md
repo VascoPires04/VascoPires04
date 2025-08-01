@@ -41,16 +41,17 @@
   <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge" />
 </p>
 
+
 ---
 
+<!--
 ## 🗄️ Databases
 
-<p align="center">
+  <p align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
 </p>
-
----
+-->
 
 ## ⚙️ Frameworks & Libraries
 
