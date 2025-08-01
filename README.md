@@ -1,7 +1,12 @@
 <!-- Animated typing header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUser/YourRepo/main/header.svg" alt="Gradient Typing"/>
+  <img
+    src="https://raw.githubusercontent.com/VascoPires04/VascoPires04/main/header.svg"
+    alt="Gradient Typing Animation"
+    width="500"
+  />
 </p>
+
 
 
 
