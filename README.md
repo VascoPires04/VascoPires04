@@ -1,14 +1,14 @@
-<!-- Welcome Header -->
+<!-- Cyberpunk City Header -->
 
-<p align="center">
+<p align=\"center\">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&color=FF7A5F&center=true&width=600&lines=%F0%9F%91%8B+Hello+there%2C+I%27m+Vasco+Pires!"
-    alt="Typing Animation"
+    src=\"https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=36&pause=200&color=0FFFC3&center=true&width=700&lines=%F0%9F%92%A1+Welcome+to+the+Cyber+Hub\"
+    alt=\"Cyberpunk Typing Animation\"
   />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohhwfW0XIIqm6w2cI/giphy.gif" alt="Friendly Welcome" width="400" />
+<p align=\"center\">
+  <img src=\"https://i.imgur.com/3Z3cMZL.gif\" alt=\"Cyberpunk City\" width=\"700\" />
 </p>
 
 ---
@@ -81,6 +81,18 @@
   <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white&style=for-the-badge" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
 </p>
+
+---
+
+
+## 🖥️ Operating Systems
+
+<p align=\"center\">
+  <img alt=\"Linux\" src=\"https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge\" />
+  <img alt=\"Ubuntu\" src=\"https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge\" />
+  <img alt=\"Windows\" src=\"https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge\" />
+</p>
+
 
 ---
 
