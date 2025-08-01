@@ -21,8 +21,9 @@
 * 🚀 **Aspirations:** Building scalable real-time systems
 * 🏅 **Achievements:**
 
-  * Competed in **SWERC** programming olympiad
+  * Competed in **SWERC** (International University Programming Olympiad)
   * Bronze medalist in **MIUP** (National University Programming Olympiad)
+  * Finalist in **ONI** (Nacional Programming Olympiad)
 
 
 ---
