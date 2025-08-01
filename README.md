@@ -93,8 +93,8 @@ A full-stack application forecasting national fuel prices with (runs 24/7 with R
 * Web scraping via BeautifulSoup
 * Discord bot (Flask + APScheduler) notifications & `/forecasts` slash-command
   
-**Site:** <https://vascopires04.github.io/gas-price-tracker/>  
-**Github:** <https://github.com/VascoPires04/gas-price-tracker>
+  *Site:* <https://vascopires04.github.io/gas-price-tracker/>  
+  *Github:* <https://github.com/VascoPires04/gas-price-tracker>
 
 ### Fertagus Alert System
 
@@ -104,7 +104,7 @@ A real-time alert app for Portugal’s Fertagus rail service to mantain users up
 * FastAPI & Python backend providing alert feeds
 * Notifies users (clever schedule) about service disruptions
 
-**Github:** <https://github.com/VascoPires04/Fertagus-Alert>
+  *Github:* <https://github.com/VascoPires04/Fertagus-Alert>
 
 ### CERN Data Structures Abstraction
 
