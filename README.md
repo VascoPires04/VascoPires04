@@ -1,14 +1,14 @@
-<!-- Animated typing header -->
+<!-- Neon Matrix Header -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=1E90FF&center=true&width=500&lines=%F0%9F%91%8B+Hello%2C+I%27m+Vasco+Pires"
-    alt="Typing animation"
+    src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=32&pause=200&color=00FFCC&center=true&width=600&lines=⚡+Diving+Into+The+Neon+Matrix"
+    alt="Neon Matrix Typing Animation"
   />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Welcome!" width="400" />
+  <img src="https://media3.giphy.com/media/ZXvHZVtX07WlC/giphy.gif" alt="Cybercity Neon" width="600" />
 </p>
 
 ## 📝 About Me
