@@ -1,10 +1,4 @@
-<!-- Cyberpunk City Header -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.vercel.app?font=Major+Mono+Display&size=36&pause=200&color=0FFFC3&center=true&width=700&lines=%F0%9F%92%A1+Welcome+I'm+Vasco"
-    alt="Cyberpunk Typing Animation"
-  />
-</p>
+#Vasco Pires
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMTIzNDEsIm5iZiI6MTc1NDAxMjA0MSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAxVDAxMzQwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgyNzIxNDM3ZThiYjUzM2UwMDQwM2JlN2I3MmI5MTBhMDk2MzJkMDMxOWZiNjAzZDkwZTQ4ODJjYTdmMzliMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YUnEP28VYJVkWv4jrhWWkiHp-ZR3e5eti72L8nncfLU" alt="Designer_vs_Client" width="600" />
