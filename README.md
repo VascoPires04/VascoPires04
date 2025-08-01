@@ -101,7 +101,9 @@ A real-time alert app for Portugal’s Fertagus rail service to mantain users up
 
 * React front-end with animated UI
 * FastAPI & Python backend providing alert feeds
-* Notifies users instantly about service disruptions
+* Notifies users (clever schedule) about service disruptions
+
+**Github:** <https://github.com/VascoPires04/Fertagus-Alert>
 
 ### CERN Data Structures Abstraction
 
