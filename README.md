@@ -125,3 +125,14 @@ Internship project at CERN:
 * Implemented in the existing framework a library (Marionette) separating/abstracting data-model from memory layout for GPU optimization
 * Explored GPU programming with **CUDA** and parallel algorithms
 * Worked in C++ & Python on high-performance computing tasks
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vasco-pires-6889a8289/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:vasco.l.pires@gmail.com" style="margin-left: 8px;">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
