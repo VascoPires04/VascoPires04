@@ -91,8 +91,8 @@ A full-stack application forecasting national fuel prices with (runs 24/7 with R
 * FastAPI backend & Uvicorn server
 * Web scraping via BeautifulSoup
 * Discord bot (Flask + APScheduler) notifications & `/forecasts` slash-command
-  [Live Website »](https://vascopires04.github.io/gas-price-tracker/)  
-  [GitHub »](https://github.com/VascoPires04/gas-price-tracker)
+**Site:** <https://vascopires04.github.io/gas-price-tracker/>  
+[GitHub »](https://github.com/VascoPires04/gas-price-tracker)
 
 ### Fertagus Alert System
 
