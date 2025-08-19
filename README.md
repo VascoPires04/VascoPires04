@@ -136,6 +136,7 @@ A personal finance tracker that allows users to record **income** and **expenses
 * Real-time summary and cache management using **Redis**  
 * Scheduled tasks (via **Cronjob**) to update and clean data in the background
 
+
 ## 🔗 Connect with Me
 
 <p align="center">
