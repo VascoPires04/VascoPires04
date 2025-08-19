@@ -96,6 +96,14 @@
 
 ## 💡 Featured Projects
 
+### CERN Data Structures Abstraction
+
+Internship project at CERN:
+
+* Implemented in the existing framework a library (Marionette) separating/abstracting data-model from memory layout for GPU optimization
+* Explored GPU programming with **CUDA** and parallel algorithms
+* Worked in C++ & Python on high-performance computing tasks
+
 ### Gas Price Tracker
 
 A full-stack application forecasting national fuel prices with (runs 24/7 with Render + Cron-Job):
@@ -110,7 +118,7 @@ A full-stack application forecasting national fuel prices with (runs 24/7 with R
 
 ### Fertagus Alert System
 
-A real-time alert app for Portugal’s Fertagus rail service to mantain users up to date with possible problems, deployed on Vercel:
+A real-time alert app for Portugal’s Fertagus rail service to mantain users up to date with possible problems, deployed on Render:
 
 * React front-end with animated UI
 * FastAPI & Python backend providing alert feeds
@@ -118,13 +126,15 @@ A real-time alert app for Portugal’s Fertagus rail service to mantain users up
 
   *Github:* <https://github.com/VascoPires04/Fertagus-Alert>
 
-### CERN Data Structures Abstraction
+### Wallet
 
-Internship project at CERN:
+A personal finance tracker that allows users to record **income** and **expenses** with a real-time summary of their financial standing. Deployed on **Railway**, featuring secure user authentication with **Clerk** and efficient data handling with **Redis**:
 
-* Implemented in the existing framework a library (Marionette) separating/abstracting data-model from memory layout for GPU optimization
-* Explored GPU programming with **CUDA** and parallel algorithms
-* Worked in C++ & Python on high-performance computing tasks
+* React Native mobile app using **Expo** for fast builds and real-time updates
+* Express backend with **PostgreSQL (Neon)** for storing transaction data
+* Secure user authentication via **Clerk** (email verification and JWT)
+* Real-time summary and cache management using **Redis**  
+* Scheduled tasks (via **Cronjob**) to update and clean data in the background
 
 ## 🔗 Connect with Me
 
